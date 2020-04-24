@@ -1,0 +1,30 @@
+{
+  "name": "poke assistant",
+  "version": "1.0.0",
+  "description": "I'm Eevee Assistant My Master Is Eevee",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.6.1",
+    "imghash": "0.0.3",
+    "request": "^2.88.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "jimp": "^0.9.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/join/ac490858-5fd6-4fdf-ae50-3ee510e5aa93"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
